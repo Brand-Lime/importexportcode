@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Workshop &#8211; Import Export Code</title>
+	<atom:link href="/category/workshop/feed/?simply_static_page=372" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Sep 2021 06:22:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>What is Cyber Security? A Beginner’s Guide</title>
+		<link>/what-is-cyber-security-a-beginners-guide/</link>
+		
+		<dc:creator><![CDATA[Abhi6722]]></dc:creator>
+		<pubDate>Thu, 02 Sep 2021 06:22:00 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[course]]></category>
+		<category><![CDATA[dashboard]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[landings]]></category>
+		<category><![CDATA[marketing]]></category>
+		<guid isPermaLink="false">https://geeks.madrasthemes.com/?p=64</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, accu msan in, tempor dictum nequrem ipsum...]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, accu msan in, tempor dictum nequrem ipsum...]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Best DevOps Tools for Your Application Lifecycle</title>
+		<link>/the-best-devops-tools-for-your-application-lifecycle/</link>
+		
+		<dc:creator><![CDATA[Abhi6722]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 08:28:00 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[course]]></category>
+		<category><![CDATA[dashboard]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[landings]]></category>
+		<category><![CDATA[marketing]]></category>
+		<guid isPermaLink="false">https://geeks.madrasthemes.com/?p=70</guid>
+
+					<description><![CDATA[Inventore pariatur veritatis maxime fugiat sint dolorem quas culpa officiis nemo quis!]]></description>
+										<content:encoded><![CDATA[Inventore pariatur veritatis maxime fugiat sint dolorem quas culpa officiis nemo quis!]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to become Web Designer ?</title>
+		<link>/how-to-become-web-designer/</link>
+		
+		<dc:creator><![CDATA[Abhi6722]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2021 08:35:00 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[course]]></category>
+		<category><![CDATA[dashboard]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[landings]]></category>
+		<category><![CDATA[marketing]]></category>
+		<guid isPermaLink="false">https://geeks.madrasthemes.com/?p=80</guid>
+
+					<description><![CDATA[Vero expedita voluptatibus cumque sunt ullam cum natus, vitae provident debitis pariatur?]]></description>
+										<content:encoded><![CDATA[Vero expedita voluptatibus cumque sunt ullam cum natus, vitae provident debitis pariatur?]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
